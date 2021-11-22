@@ -3,7 +3,7 @@
 ### [01- Car Detection](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/01-%20Car%20Detection)
 ### [02- Face Mask Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/02-%20Face%20Mask%20Detection)
 ### [03- Convert Photo into Cartoon ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/03-%20Convert%20Photo%20into%20Cartoon)
-### [03- Convert Photo into Cartoon ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/04-%20Convert%20Photo%20into%20Pencil%20sketch)
+### [04- Convert Photo into Pencil sketch ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/04-%20Convert%20Photo%20into%20Pencil%20sketch)
 
 
 <br/>
