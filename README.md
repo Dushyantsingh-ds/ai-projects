@@ -5,6 +5,7 @@
 ### [03- Convert Photo into Cartoon ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/03-%20Convert%20Photo%20into%20Cartoon)
 ### [04- Convert Photo into Pencil sketch ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/04-%20Convert%20Photo%20into%20Pencil%20sketch)
 ### [05- Traffic Signs Recognition ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
+### [05- Document Scanner ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 
 
 
