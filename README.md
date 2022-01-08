@@ -7,7 +7,7 @@
 ### [05- Traffic Signs Recognition ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 ### [05- Document Scanner ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 ### [06- Brain Cancer Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
-
+### [07- Real Time Helmet Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 
 
 <br/>
