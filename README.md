@@ -1,22 +1,22 @@
 # AI-Projects
 
 ## Object Detection Projects
-### [01- Object Detection](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
-### [02- Human Detection](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
+### [01- Object Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
+### [02- Human Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 ### [03- Face Detection from Image](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Face%20Detection%20from%20Image)
 ### [04- Face Detection from WebCam/Vedio](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Face%20Detection%20from%20WebCam)
 ### [05- Hand & Finger Detection from WebCam/Vedio](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Finger%20%26%20Hand%20Tracking)
 
 ## Action Based Deep Learning Projects
 ### [01- Car Detection](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/01-%20Car%20Detection)
-### [02- Face Mask Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/02-%20Face%20Mask%20Detection)
+### [02- Face Mask Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/02-%20Face%20Mask%20Detection)
 ### [03- Convert Photo into Cartoon ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/03-%20Convert%20Photo%20into%20Cartoon)
 ### [04- Convert Photo into Pencil sketch ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/04-%20Convert%20Photo%20into%20Pencil%20sketch)
-### [05- Traffic Signs Recognition ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
-### [05- Document Scanner ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
-### [06- Brain Cancer Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
-### [07- Real Time Helmet Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
-### [08- Face Detection](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/01-%20Car%20Detection)
+### [05- Traffic Signs Recognition -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
+### [05- Document Scanner -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
+### [06- Brain Cancer Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/06-%20Brain%20Cancer%20Detection)
+### [07- Real Time Helmet Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
+### [08- Background Remover from WebCam/Vedio ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 
 <br/>
 <hr/>
