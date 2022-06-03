@@ -6,6 +6,7 @@
 ### [03- Face Detection from Image](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Face%20Detection%20from%20Image)
 ### [04- Face Detection from WebCam/Vedio](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Face%20Detection%20from%20WebCam)
 ### [05- Hand & Finger Detection from WebCam/Vedio](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Finger%20%26%20Hand%20Tracking)
+### [06- Helmet and Number plate Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 
 ## Action Based Deep Learning Projects
 ### [01- Car Detection](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/01-%20Car%20Detection)
