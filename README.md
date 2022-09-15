@@ -18,6 +18,7 @@
 ### [06- Brain Cancer Detection ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/06-%20Brain%20Cancer%20Detection)
 ### [07- Real Time Helmet Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 ### [08- Background Remover from WebCam/Vedio ](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Background%20Remover%20from%20WebCamVedio)
+### [09- Noise Reduction -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Noise%20Reduction)
 
 <br/>
 <hr/>
