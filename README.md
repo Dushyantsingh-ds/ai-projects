@@ -3,7 +3,7 @@
 ## Object Detection Projects
 ### [01- Object Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
 ### [02- Human Detection -](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
-### [03- Face Detection from Image](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/)
+### [03- Face Detection from Image]()
 - [03 - Face Detection from Image](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Face%20Detection%20from%20Image)
 - [03.0 - Face and Eyes Detection from Image](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Face%20%26%20Eyes%20Detection%20from%20Image)
 ### [04- Face Detection from WebCam/Vedio](https://github.com/Dushyantsingh-ds/ai-projects/tree/main/Projects/Face%20Detection%20from%20WebCam)
